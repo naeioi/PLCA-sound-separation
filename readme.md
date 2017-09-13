@@ -19,9 +19,9 @@ You may also want to fine-tune parameters for best performance by changing count
 
 ---------
 
-Credit: Spectrogram construct By Frank Zalkow. Please refer to [this blog page](http://www.frank-zalkow.de/en/code-snippets/create-audio-spectrograms-with-python.html?i=1)
+Credit: Spectrogram construct By Frank Zalkow. Please refer to [this blog page].(http://www.frank-zalkow.de/en/code-snippets/create-audio-spectrograms-with-python.html?i=1)
 
-(Piano samples)[https://onlinesequencer.net/594041] and (mixed music)[https://onlinesequencer.net/593311] are produced with [Online Sequencer](https://onlinesequencer.net). 
+[Piano samples](https://onlinesequencer.net/594041) and [mixed music](https://onlinesequencer.net/593311) are produced with [Online Sequencer](https://onlinesequencer.net). 
 
 Melody in mixed music is the prelude of *Bad Apple* originally by ZUN and rearranged by Alstroemeria Records.
 
