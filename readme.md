@@ -19,7 +19,10 @@ You may also want to fine-tune parameters for best performance by changing count
 
 ---------
 
-Credit: Spectrogram construct By Frank Zalkow. Please refer to http://www.frank-zalkow.de/en/code-snippets/create-audio-spectrograms-with-python.html?i=1
+Credit: Spectrogram construct By Frank Zalkow. Please refer to [this blog page](http://www.frank-zalkow.de/en/code-snippets/create-audio-spectrograms-with-python.html?i=1)
 
+(Piano samples)[https://onlinesequencer.net/594041] and (mixed music)[https://onlinesequencer.net/593311] are produced with [Online Sequencer](https://onlinesequencer.net). 
+
+Melody in mixed music is the prelude of *Bad Apple* originally by ZUN and rearranged by Alstroemeria Records.
 
 [1] P. Smaragdis, B. Raj and M. Shashanka, A Probabilistic Latent Variable Model for Acoustic Modeling, Proc. Neural Information Processing Systems Workshop on Advances in Models for Acoustic Processing, 2006.
