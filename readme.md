@@ -13,7 +13,9 @@ Then reconstruct spectrogram from P(f|z), P(t|z) and P(z) with P(z') = 0 for all
 ## Usage
 Dependency: numpy, scipy, matplotlib
 
-You should install Jupyter notebook to run the code in `example.ipynb`.
+You should install Jupyter notebook to run the code in `example.ipynb`. Running the notebook produce a `extracted_piano.wav` in local directory. Please take a look at the piano sample used for training and the original mixed music in `dataset` folder.
+
+You may also want to fine-tune parameters for best performance by changing count of latent variables `zn` passed to `train()` and `train_given_Pf()`.
 
 ---------
 
