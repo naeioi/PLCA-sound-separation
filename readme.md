@@ -13,7 +13,7 @@ Then reconstruct spectrogram from P(f|z), P(t|z) and P(z) where P(z') = 0 for al
 ## Usage
 Dependency: numpy, scipy, matplotlib
 
-You should install Jupyter notebook to run the code in `example.py`.
+You should install Jupyter notebook to run the code in `example.ipynb`.
 
 ---------
 
