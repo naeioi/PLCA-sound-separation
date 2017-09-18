@@ -1,10 +1,10 @@
-**Semi-Supervised Separation of Sounds from Single-Channel Mixtures By Probability Latent Component Analysis**
+**Semi-Supervised Separation of Sounds from Single-Channel Mixtures By Probabilistic Latent Component Analysis**
 
 -----
 
 ## Introduction
 
-This an implementaion of *Probability Latent Component Analysis* model, which is essentially a EM-style non-negative matrix factorization algorithm. This example extracts piano sounds from single-channel mixed of music.
+This an implementaion of *Probabilistic Latent Component Analysis* model, which is essentially a EM-style non-negative matrix factorization algorithm. This example extracts piano sounds from single-channel mixed of music.
 
 This is done by first learning P(f|z) from piano samples,
 which is later used to partially fix P(f|z) in training on mixed music. 
